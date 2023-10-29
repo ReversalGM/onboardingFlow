@@ -15,7 +15,7 @@
   width: 100%;
   background-color: var(--primary-white);
   font-size: 1.25rem;
-  padding: 0.5em 1em;
+  padding: 0.75em 1em;
   border: 2px solid var(--primary-black);
   border-radius: 0.25em;
   outline: none;
@@ -43,7 +43,7 @@
   position: absolute;
   visibility: hidden;
   transition: transform ease-in-out 0.3s;
-  transform: translateY(-20%);
+  transform: translateY(-1rem);
 
   z-index: 1;
 }

@@ -73,6 +73,7 @@
   justify-self: center;
   color: var(--secondary-purple);
   grid-column: span 1;
+  margin: 0;
 }
 
 .btn {
