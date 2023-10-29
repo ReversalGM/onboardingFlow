@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "DM Sans", sans-serif;
+  --primary-black: hsla(0, 0%, 0%, 0.8);
+  --primary-white: #ffffff;
+  --primary-purple: #7034fc;
+
+  --secondary-black: #394762;
+  --secondary-white: #f5f4f8;
+  --secondary-purple: #9073f7;
+}
+
+/* 
+1. How do you plan to use scipot?
+4. What brings you to scipot?
+
+
+2. What type of work do you do?
+3. What is your role?
+
+
+
+5. Scipot supports callboration with others.
+Invite your team or join one.
+
+6. How did you hear about us? */
