@@ -115,7 +115,14 @@ export function Onboarding() {
             <h2 className="title divider__title">OR</h2>
             <div className="divider__line"></div>
             {inviteList.map((elem) => {
-              return <input placeholder="Email" className="input" type="text" />
+              return (
+                <input
+                  key={crypto.randomUUID()}
+                  placeholder="Email"
+                  className="input"
+                  type="text"
+                />
+              )
             })}
             <button
               onClick={(e) => {
